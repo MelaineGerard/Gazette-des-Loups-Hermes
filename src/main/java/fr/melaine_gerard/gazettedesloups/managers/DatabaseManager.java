@@ -1,7 +1,6 @@
 package fr.melaine_gerard.gazettedesloups.managers;
 
 import com.zaxxer.hikari.HikariDataSource;
-import fr.blueberry.studio.hermes.api.data.sql.DatabaseCredentials;
 
 import java.sql.Connection;
 import java.sql.SQLException;

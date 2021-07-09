@@ -2,3 +2,5 @@ db:
   jdbcurl: "jdbc:mysql://localhost:3306/gazette"
   username: "gazette"
   password: "Hermes is so cool"
+cache:
+  address: "redis://127.0.0.1:6379"
